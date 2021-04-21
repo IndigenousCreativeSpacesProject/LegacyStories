@@ -1,3 +1,4 @@
+![Image](https://raw.githubusercontent.com/IndigenousCreativeSpacesProject/LegacyStories/gh-pages/ABO_LOGO_CMYK_HORIZONTAL-1536x778.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IndigenousCreativeSpacesProject/LegacyStories/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

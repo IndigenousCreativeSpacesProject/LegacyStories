@@ -4,7 +4,9 @@
 In 2021-2022, this project will see 8 stories on Indigenous organizations, their creative spaces and/or creative space projects published. Legacy Story Partners include:
 
 -Debajehmujig Theatre Group (Manitoulin Island)
--Nozhem: First People's Performance Space (Peterborough)
+-Nozhem: First People's Performance Space (Peterborough), Debajehmujig Theatre Group (Manitoulin Island)
+-
+Nozhem: First People's Performance Space (Peterborough)
 -Aanmitaagzi/Big Medicine Studio (North Bay)
 -Centre for Indigenous Theatre (Toronto)
 -Native Earth (Toronto)

@@ -3,17 +3,21 @@
 
 In 2021-2022, this project will see 8 stories on Indigenous organizations, their creative spaces and/or creative space projects published. Legacy Story Partners include:
 
+-Aanmitaagzi/Big Medicine Studio (North Bay)
+
 -Debajehmujig Theatre Group (Manitoulin Island)
+
+-Centre for Indigenous Theatre (Toronto)
+
+-Friday Creeations
+
+-Native Earth (Toronto)
+
+-Nordic Lab (Ottawa)
 
 -Nozhem: First People's Performance Space (Peterborough)
 
-Nozhem: First People's Performance Space (Peterborough)
--Aanmitaagzi/Big Medicine Studio (North Bay)
--Centre for Indigenous Theatre (Toronto)
--Native Earth (Toronto)
--Nordic Lab (Ottawa)
 -Woodland Cultural Centre (Six Nations)
--Friday Creeations
 
 These stories will share, highlight and celebrate the unique stories of these Indigenous organizations, creative spaces and/or creative space capital projects, in the hopes of inspiring the continued development of Indigenous creative spaces across Ontario.
 

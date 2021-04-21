@@ -5,7 +5,7 @@ In 2021-2022, this project will see 8 stories on Indigenous organizations, their
 
 -Aanmitaagzi/Big Medicine Studio (North Bay)
 
--[Debajehmujig Theatre Group (Manitoulin Island)](https://github.com/IndigenousCreativeSpacesProject/LegacyStories.wiki.git)
+-Debajehmujig Theatre Group (Manitoulin Island) 
 
 -Centre for Indigenous Theatre (Toronto)
 

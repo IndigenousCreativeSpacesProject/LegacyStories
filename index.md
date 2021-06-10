@@ -3,9 +3,9 @@
 
 In 2021-2022, this project will see 8 stories on Indigenous organizations, their creative spaces and/or creative space projects published. Legacy Story Partners include:
 
--Aanmitaagzi/Big Medicine Studio (North Bay)
+-[Aanmitaagzi/Big Medicine Studio (North Bay)](https://indigenouscreativespacesproject.github.io/Aanmitaagzi-and-Big-Medicine-Studio-Legacy-Story/)
 
--[Debajehmuujig Theatre Group (Manitoulin Island)](https://indigenouscreativespacesproject.github.io/DebajehmujigTheatreGroupLegacyStory/)
+-[Debajehmuujig Storytellers (Manitoulin Island)](https://indigenouscreativespacesproject.github.io/DebajehmujigTheatreGroupLegacyStory/)
 
 -Centre for Indigenous Theatre (Toronto)
 
